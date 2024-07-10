@@ -1,1 +1,3 @@
+GrossSalary is calculated by adding the basic salary and the benefits 
+NetSalary is calculated by subtracting the nhif, nssf and PAYE from the grossSalary
 
